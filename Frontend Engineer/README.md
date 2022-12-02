@@ -1,7 +1,6 @@
-#(React) Coding Assessment
+# React Coding Assessment
 
 ## Overview
-
 To complete this assessment, you will need to write a simple [React](https://facebook.github.io/react/) web app, and provide us the source files to be built.
 
 The purpose of this assessment is to assess your **skills and approach to composing a simple web app** given an API feed.  We will also assess the **generated HTML, CSS, and JS** output.
